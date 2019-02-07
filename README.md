@@ -5,6 +5,7 @@
 不登录的情况下，下载B站的普通视频（自动选择能下载的最高清晰度，不包括大会员专用清晰度）和弹幕（可选）
 
 # Prerequisites
+下载并安装[ffmpeg](http://www.ffmpeg.org/download.html)，然后[添加到系统环境变量](https://blog.csdn.net/Chanssl/article/details/83050959)
 ```
 >=python 3.7
 pip3 install -r requirements.txt
