@@ -4,6 +4,9 @@
 
 不登录的情况下，下载B站的普通视频（自动选择能下载的最高清晰度，不包括大会员专用清晰度）和弹幕（可选）
 
+# Notice
+仅用于学习交流，请勿用于任何商业用途！谢谢!
+
 # Prerequisites
 下载并安装[ffmpeg](http://www.ffmpeg.org/download.html)，然后[添加到系统环境变量](https://blog.csdn.net/Chanssl/article/details/83050959)
 ```
