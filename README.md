@@ -6,7 +6,7 @@
 
 # Prerequisites
 ```
->=Python 3.7
+>=python 3.7
 pip3 install -r requirements.txt
 ```
 
