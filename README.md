@@ -2,6 +2,8 @@
 
 ![python](https://img.shields.io/badge/python-3.7.2-blue.svg)
 
+不登录的情况下，下载B站的普通视频（自动选择能下载的最高清晰度，不包括大会员专用清晰度）和弹幕（可选）
+
 # Prerequisites
 ```
 >=Python 3.7
