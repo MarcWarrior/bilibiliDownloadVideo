@@ -1,0 +1,5 @@
+aiohttp==3.5.4
+aiofiles==0.4.0
+requests==2.21.0
+chardet==3.0.4
+tqdm==4.30.0
