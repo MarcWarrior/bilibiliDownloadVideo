@@ -10,11 +10,11 @@ import requests
 import threading
 import subprocess
 import xml.dom.minidom
-from .util import *
+from bilibili.util import *
 from tqdm import tqdm
 from contextlib import closing
 from multiprocessing import cpu_count
-from .danmuku2ass import Danmaku2ASS, ConvertColor
+from bilibili.danmuku2ass import Danmaku2ASS, ConvertColor
 
 
 signApiUrl = "https://interface.bilibili.com/v2/playurl?"
