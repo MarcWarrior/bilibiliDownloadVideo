@@ -16,7 +16,7 @@ pip3 install -r requirements.txt
 
 # Usage
 ```
-python bilibili.py -i (B站普通视频的AV号，不要加av前缀) 
+python Bilibili.py -i (B站普通视频的AV号，不要加av前缀) 
                    -d (可选，下载目录，默认为文件所在路径的video文件夹下) 
                    -D (可选，是否下载弹幕，填写一个非0值表示下载弹幕，下载到和视频放在一起)
 ```

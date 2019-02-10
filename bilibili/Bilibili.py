@@ -1,6 +1,6 @@
 # -*-coding:utf-8 -*-
 import argparse
-from bilibili.base import *
+from base import *
 
 
 class BiliBili:
