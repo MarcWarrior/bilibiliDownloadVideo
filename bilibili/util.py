@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # -*-coding:utf-8 -*-
 # 参考https://github.com/Vespa314/bilibili-api/blob/master/api.md
 import re
