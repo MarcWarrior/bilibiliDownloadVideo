@@ -3,6 +3,7 @@
 ![python](https://img.shields.io/badge/python-3.7.2-blue.svg)  ![platform](https://img.shields.io/badge/platform-win--32%20%7C%20win%20--64%20%7C%20linux-blue.svg)
 
 不登录的情况下，下载乙站的普通视频（自动选择能下载的最高清晰度，不包括大会员专用清晰度）和弹幕（可选）
+
 对于多P视频只需要P1的AV号即可
 
 # Notice
